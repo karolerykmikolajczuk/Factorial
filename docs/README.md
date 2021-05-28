@@ -3,10 +3,10 @@
 ---------------------
 
 ## Table of contents
-* [General Info](#General Info)
-* [How is that possible?](#How is that possible?)
-* [How we are computing?](#How we are computing?)
-* [How to work with this code?](#How to work with this code?)
+* [General Info](# General Info)
+* [How is that possible?](# ow is that possible?)
+* [How we are computing?](# How we are computing?)
+* [How to work with this code?](# How to work with this code?)
 
 ---------------------
 # General Info
