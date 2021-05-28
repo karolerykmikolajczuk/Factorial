@@ -1,8 +1,8 @@
-#Factorial
+# Factorial
 
 ---------------------
 
-#General Info
+# General Info
 
 Code is responsible for computing big large numbers.
 

@@ -1,4 +1,4 @@
-#Factorial
+# Factorial
 
 ---------------------
 
@@ -9,7 +9,7 @@
 * [How to work with this code?](#How to work with this code?)
 
 ---------------------
-#General Info
+# General Info
 
 Code is responsible for computing big large numbers.
 
@@ -21,7 +21,7 @@ If you want to compute `25!` in what type would you save it?
 This code gives you possibility to compute multiplication of big numbers.
 
 ---------------------
-##How is that possible?
+## How is that possible?
 
 It's possible thanks to pointers. If we consider pointer as array of numbers we can make:
 > size 2 array: [0, 0]
@@ -47,9 +47,9 @@ as just char size is.
 And last thing to explain:
 
 ---------------------
-#How we are computing?
+# How we are computing?
 
-###Written multiplication
+### Written multiplication
  
 ```
  	1 8 2
@@ -65,7 +65,7 @@ And last thing to explain:
 That's all the magic that happens here. Enjoy. 
 
 ---------------------
-#How to work with this code?
+# How to work with this code?
 
 2 Options.
 
